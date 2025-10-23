@@ -9,7 +9,7 @@ El objetivo es identificar genes con diferencias significativas entre distintos 
 
 | Archivo | Descripción |
 |----------|--------------|
-| [`Khan_Cancer.csv`](./Khan.csv) | Base de datos con 83 muestras y 2308 genes estandarizados. La variable `y` indica el tipo de cáncer (1–4). |
+| [`Khan.csv`](./Khan.csv) | Base de datos con 83 muestras y 2308 genes estandarizados. La variable `y` indica el tipo de cáncer (1–4). |
 | [`Khan_Cancer.ipynb`](./Khan_Cancer.ipynb) | Notebook principal con el desarrollo completo del análisis, dividido por incisos (1–5). Incluye pruebas estadísticas, visualizaciones y modelos SVM. |
 | [`Khan_Cancer.html`](./Khan_Cancer.html) | Versión exportada del notebook para visualización rápida sin entorno Jupyter. |
 
